@@ -10,7 +10,7 @@ A modern Fintech solution conceptualized and designed during the **Tuwaiq Fintec
   - User onboarding and financial dashboard setup.
   - Interactive expense tracking and categorization views.
   - Clean, accessible design tailored for modern mobile banking experiences.
-- **Interactive Prototype:** [Add Figma Link Here If Available]
+- **Interactive Prototype:** [🔗 View Interactive Prototype on Figma](https://www.figma.com/make/ggNGad3Uhf1dGnn9klk9ph/Lexiq?fullscreen=1&t=pbB4nJaCZEgVmyTR-1&code-node-id=0-9)
 
 ---
 
